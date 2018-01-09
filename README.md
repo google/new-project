@@ -1,6 +1,6 @@
 # New Project Template
 
-This repository contains a template you can use to see a repository for a
+This repository contains a template you can use to seed a repository for a
 new open source project.
 
 See go/releasing (available externally at
@@ -36,7 +36,7 @@ doesn't comply with the license.)
 
 Apache header:
 
-    Copyright 2017 Google Inc.
+    Copyright 2018 Google Inc.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
