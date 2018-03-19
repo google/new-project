@@ -15,6 +15,7 @@ documentation for instructions on using alternate license.
 1. Check it out from GitHub.
     * There is no reason to fork it.
 1. Create a new local repository and copy the files from this repo into it.
+1. If you're including the optional Code of Conduct, customize it with the project name and the email address where people should report Code of Conduct violations. If you're not including it, remove the file.
 1. Develop your new project!
 
 ``` shell
