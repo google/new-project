@@ -15,6 +15,8 @@ documentation for instructions on using alternate license.
 1. Check it out from GitHub.
     * There is no reason to fork it.
 1. Create a new local repository and copy the files from this repo into it.
+1. Modify README.md and CONTRIBUTING.md to represent your project, not the
+   template project.
 1. Develop your new project!
 
 ``` shell
