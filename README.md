@@ -4,7 +4,7 @@ This repository contains a template you can use to seed a repository for a
 new open source project.
 
 See go/releasing (available externally at
-https://opensource.google.com/docs/releasing/) for more information about
+https://opensource.google/docs/releasing/) for more information about
 releasing a new Google open source project.
 
 This template uses the Apache license, as is Google's default.  See the
