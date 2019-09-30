@@ -24,7 +24,7 @@ git clone https://github.com/google/new-project
 mkdir my-new-thing
 cd my-new-thing
 git init
-cp ../new-project/* .
+cp -r ../new-project/* .
 git add *
 git commit -a -m 'Boilerplate for new Google open source project'
 ```
