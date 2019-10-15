@@ -25,8 +25,8 @@ mkdir my-new-thing
 cd my-new-thing
 git init
 cp -r ../new-project/* .
-git add *
-git commit -a -m 'Boilerplate for new Google open source project'
+git add Asmatmaker-patch-1
+git commit -a -m 'new Google open source project'
 ```
 
 ## Source Code Headers
