@@ -1,9 +1,9 @@
 # New Project Template
 
-This repository contains a template you can use to seed a repository for a
-new open source project.
+This repository contains a template that can be used to seed a repository for a
+new Google open source project.
 
-See go/releasing (available externally at
+See [go/releasing](http://go/releasing) (available externally at
 https://opensource.google/docs/releasing/) for more information about
 releasing a new Google open source project.
 
@@ -15,7 +15,7 @@ documentation for instructions on using alternate license.
 1. Check it out from GitHub.
     * There is no reason to fork it.
 1. Create a new local repository and copy the files from this repo into it.
-1. Modify README.md and CONTRIBUTING.md to represent your project, not the
+1. Modify README.md and docs/contributing.md to represent your project, not the
    template project.
 1. Develop your new project!
 
