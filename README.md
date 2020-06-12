@@ -12,7 +12,7 @@ documentation for instructions on using alternate license.
 
 ## How to use this template
 
-1. Check it out from GitHub.
+1. Clone it from GitHub.
     * There is no reason to fork it.
 1. Create a new local repository and copy the files from this repo into it.
 1. Modify README.md and docs/contributing.md to represent your project, not the
