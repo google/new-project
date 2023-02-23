@@ -27,4 +27,6 @@ Guidelines](https://opensource.google/conduct/).
 
 ### Code Reviews
 
-All submissions, including submissions by project members, require review. We use [GitHub pull requests](https://help.github.com/articles/about-pull-requests/) for this purpose.
+All submissions, including submissions by project members, require review. We 
+use [GitHub pull requests](https://help.github.com/articles/about-pull-requests/)
+for this purpose.
