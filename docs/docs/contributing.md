@@ -5,7 +5,7 @@ We would love to accept your patches and contributions to this project.
 ## Before you begin
 
 ### Sign our Contributor License Agreement
-
+docs/contributing.md
 Contributions to this project must be accompanied by a
 [Contributor License Agreement](https://cla.developers.google.com/about) (CLA).
 You (or your employer) retain the copyright to your contribution; this simply
