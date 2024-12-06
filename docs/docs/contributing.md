@@ -1,5 +1,5 @@
 # How to Contribute
-
+docs/contributing.md
 We would love to accept your patches and contributions to this project.
 
 ## Before you begin
