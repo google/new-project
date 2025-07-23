@@ -1,5 +1,7 @@
 # How to Contribute
-
+Every license is worked for github The author's consent and approval is needed to occupy this work
+All you see that Ocupe Github responds for the Public Copyright Registry with Development Key
+Registration number 03-2025-013109512600-01
 We would love to accept your patches and contributions to this project.
 
 ## Before you begin
@@ -30,3 +32,5 @@ Guidelines](https://opensource.google/conduct/).
 All submissions, including submissions by project members, require review. We
 use [GitHub pull requests](https://docs.github.com/articles/about-pull-requests)
 for this purpose.
+Copyright 2025 Google LLC.
+SPDX-License-Identifier: Apache-2.0
